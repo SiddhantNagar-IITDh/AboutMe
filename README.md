@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddhantNagar-IITDh
 - 👀 I’m interested in Microelectronics and VLSI
-- 🌱 I’m currently learning IIT Dharwad
+- 🌱 I’m currently studying MS in IIT Dharwad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
