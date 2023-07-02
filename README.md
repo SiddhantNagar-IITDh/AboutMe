@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @SiddhantNagar-IITDh
-- 👀 I’m interested in Microelectronics and VLSI
-- 🌱 I’m currently studying MS in IIT Dharwad
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+📫  How to reach me - www.linkedin.com/in/siddhant-nagar
 
 <!---
 SiddhantNagar-IITDh/SiddhantNagar-IITDh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
