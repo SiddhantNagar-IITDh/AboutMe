@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantnagar-iitdh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantnagar-iitdh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantnagar-iitdh" alt="siddhantnagar-iitdh" /></a> </p>
-
 - 🔭 I’m currently working on **Low Power Converter design**
 
-- 🌱 I’m currently learning **Analog VLSI, Comparator design, DC-DC converter**
+- 🌱 I’m currently learning **Analog VLSI, Comparator design, DC-DC converter - Buck, Boost**
 
 - 👯 I’m looking to collaborate on **Power Management IC development**
 
