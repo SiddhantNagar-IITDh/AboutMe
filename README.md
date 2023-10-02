@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/en-IN/view/walking-chip-ne555-walking-chip-integrated-circuit-gif-27619458)]
+![MasterHead](https://tenor.com/en-IN/view/walking-chip-ne555-walking-chip-integrated-circuit-gif-27619458)
 <h1 align="center">Hi 👋, I'm Siddhant Nagar</h1>
 <h3 align="center">Electrical Engineer working in the field of VLSI</h3>
 
