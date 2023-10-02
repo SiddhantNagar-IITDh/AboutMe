@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Nagar</h1>
 <h3 align="center">Electrical Engineer working in the field of VLSI</h3>
 
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantnagar-iitdh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantnagar-iitdh" /> </p>
 
