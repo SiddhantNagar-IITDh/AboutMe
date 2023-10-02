@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantnagar-iitdh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantnagar-iitdh" /> </p>
+
 
 - 🔭 I’m currently working on **Low Power Converter design**
 
