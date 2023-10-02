@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **VLSI, Electronics, Circuits**
 
-- 📫 How to reach me **www.linkedin.com/in/siddhant-nagar**
-
 - ⚡ Fun fact **I think I will learn how not to procrastinate (in future)**
 
 <h3 align="left">Connect with me:</h3>
